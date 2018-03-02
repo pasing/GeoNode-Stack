@@ -1,0 +1,15 @@
+[submodule "data-docker"]
+	path = data-docker
+	url = https://github.com/pasing/data-docker
+[submodule "postgis-docker"]
+	path = postgis-docker
+	url = https://github.com/pasing/postgis-docker
+[submodule "nginx-docker"]
+	path = nginx-docker
+	url = https://github.com/pasing/nginx-docker
+[submodule "geoserver-docker"]
+	path = geoserver-docker
+	url = https://github.com/pasing/geoserver-docker
+[submodule "geonode-docker"]
+	path = geonode-docker
+	url = https://github.com/pasing/geonode-docker
