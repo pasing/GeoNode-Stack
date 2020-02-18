@@ -1,3 +1,3 @@
 # GEO Stack
-## Open Source Geo-Spatial Data Infrastructure 
+## Open Source Spatial Data Infrastructure 
 
